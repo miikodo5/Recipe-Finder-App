@@ -1,0 +1,22 @@
+{
+    "printWidth": 90,
+    "tabWidth": 4,
+    "singleQuote": true,
+    "trailingComma": "all",
+    "bracketSpacing": true,
+    "semi": true,
+    "useTabs": false,
+    "bracketSameLine": false,
+    "jsxSingleQuote": false,
+    "importOrder": [
+        "^@core/(.*)$",
+        "<THIRD_PARTY_MODULES>",
+        "^@server/(.*)$",
+        "^@ui/(.*)$",
+        "^[./]"
+    ],
+    "importOrderSeparation": true,
+    "importOrderSortSpecifiers": true,
+    "tailwindConfig": "./tailwind.config.ts",
+    "arrowParens": "always"
+}
